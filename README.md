@@ -1,13 +1,13 @@
 GCD Peer Assignment Submission
 ==============================
 
-##R_Analysis() Function
+##Run_Analysis() Function
 
-To run this script simply load the source file R_Analysis.R.
+To run this script simply load the source file Run_Analysis.R.
 
-Run the R_Analysis() function without any parameters. It returns the "tidy-dataset"
+Run the Run_Analysis() function without any parameters. It returns the "tidy-dataset"
 
-eg. result <- R_Analysis()
+eg. result <- Run_Analysis()
 
 Variable result will contain a list of tables containing the mean of each recorded variable broken down by acitivity and subjects  
 
