@@ -73,7 +73,7 @@ Create_Neat_Table <- function(data)
   result
 }
 
-R_Analysis <- function()
+Run_Analysis <- function()
 {
   
   ## The final R_Analysis program creates a dataset and returns a vactor of tables which contains the means 
